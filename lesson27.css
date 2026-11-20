@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+div h1 {
+    background-color: #00ff00;
+    color: white;
+}
+
+div h2 {
+    background-color: rgba(0,255,0,0.3);
+    color: white;
+}
